@@ -3,7 +3,15 @@ body{
     padding: 0;
 }
 h1, h2 {
-    font-family: "Open Sans", "Roboto", "Verdana", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-weight:800;
-    padding: 10px 15px 20px 25px;
+    font-size: Dancing Script;
+    padding: 10px 15px 10px 25px;
+    margin: auto;
+}
+h3{
+
+}
+p {
+
 }
